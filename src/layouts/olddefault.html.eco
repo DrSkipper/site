@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<%- @getBlock("meta").toHTML() %>
+	<%- @getBlock("styles").toHTML() %>
+	<title><%= @document.title %></title>
+</head>
+<body>
+	<nav role="navigation">
+		<ul>
+			<% for menuItem in @getCollection('menu').toJSON(): %>
+			<li><a href="<%= menuItem.url %>"><%- menuItem.title %></a></li>
+			<% end %>
+		</ul>
+	</nav>
+	<%- @content %>
+	<footer role="contentInfo">
+		cool story footer
+	</footer>
+	<%- @getBlock("scripts").toHTML() %>
+</body>
+</html>

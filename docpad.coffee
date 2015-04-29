@@ -21,23 +21,23 @@ docpadConfig = {
 			]
 
 			# The default title of our website
-			title: "Your Website"
+			title: "Fletcher's Stuff"
 
 			# The website description (for SEO)
 			description: """
-				When your website appears in search results in say Google, the text here will be shown underneath your website's title.
+				Games and maybe some other things
 				"""
 
 			# The website keywords (for SEO) separated by commas
 			keywords: """
-				place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website
+				video, games, videogames, indie, altgames, towerfall, gamedev, development, indiedev, screenshots, pc, mac, linux, mobile
 				"""
 
 			# The website author's name
-			author: "Your Name"
+			author: "Fletcher"
 
 			# The website author's email
-			email: "your@email.com"
+			email: "fletcherc89@gmail.com"
 
 			# Styles
 			styles: [

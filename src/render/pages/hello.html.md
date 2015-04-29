@@ -1,5 +1,5 @@
 ```
-title: This is a Page
+title: Games
 layout: page
 tags: ['intro','page']
 pageOrder: 1

@@ -46,7 +46,7 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="/">Project name</a>
+				<a class="navbar-brand" href="/">Home</a>
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav">
@@ -75,10 +75,17 @@
 
 		<!-- Footer -->
 		<footer>
-			<p class="pull-left">&copy; Company <%- (new Date()).getFullYear() %></p>
-			<p class="pull-right">
-				This website was last updated at <%= @site.date.toISOString() %>
-			</p>
+			<center>
+				&middot <a href="http://twitter.com/DrSkipper_">Twitter</a>
+				&middot <a href="http://vine.co/u/1124642879189700608">Vine</a>
+				&middot <a href="http://drskipper.itch.io">itch.io</a>
+				&middot <a href="http://gamejolt.com/profile/fletcher/182163/">GameJolt</a>
+				&middot <a href="http://github.com/DrSkipper">GitHub</a>
+				&middot <a href="http://bitbucket.org/DrSkipper">Bitbucket</a>
+				&middot <a href="mailto:fletcherc89@gmail.com">Email</a>
+				&middot Last Updated <%= @site.date.toDateString() %>
+				&middot
+			</center>
 		</footer>
 	</div><!-- /container -->
 

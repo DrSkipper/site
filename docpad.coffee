@@ -9,6 +9,9 @@ docpadConfig = {
 
 	templateData:
 
+		# Libraries
+		fs: require('fs')
+
 		# Specify some site properties
 		site:
 			# The production url of our website
@@ -90,6 +93,12 @@ docpadConfig = {
 
 		posts: (database) ->
 			database.findAllLive({tags:$has:'post'}, [date:-1])
+
+		images: ->
+			@getCollection('files').findAllLive({relativeOutDirPath:'images'})
+
+		replays: ->
+			@getCollection('images').findAllLive({relativeOutDirPath:'replays'})
 
 
 	# =================================

@@ -39,7 +39,6 @@
     "docpad-plugin-related": "~2.2.2",
     "docpad-plugin-stylus": "~2.9.0",
     "docpad-plugin-text": "~2.3.3",
-    "docpad-plugin-livereload": "~2.6.1",
     "docpad-plugin-coffeekup": "~2.2.0"
   },
   "devDependencies": {

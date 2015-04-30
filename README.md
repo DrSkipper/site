@@ -6,10 +6,6 @@
 * `docpad run`
 * Navigate to `localhost:9778` in browser (9778 is the default port for docpad).
 
-## TODOs
-
-* Should the live-reload plugin only be in devDependencies?
-
 
 # [Bootstrap](http://getbootstrap.com) skeleton for [DocPad](https://github.com/bevry/docpad)
 

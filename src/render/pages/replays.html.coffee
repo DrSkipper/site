@@ -1,8 +1,7 @@
 ---
 title: TowerFall Replays
 layout: page
-tags: ['intro','page']
-pageOrder: 1
+pageOrder: 3
 ---
 
 center ->

@@ -1,0 +1,22 @@
+---
+title: Games
+layout: page
+pageOrder: 2
+---
+
+<center>
+	<a href="http://microventuresgame.com/">
+		<h3>MicroVentures</h3><br/>
+		<img src="../images/games/screenshot_microventures_01.jpg" alt="MicroVentures">
+	</a>
+	<br/><p class="bigger">
+	Adventure game for mobile devices driven by generated short stories and levels
+	</p><br/>
+	<a href="http://gamejolt.com/games/strategy-sim/solidarity/21732/">
+		<h3>Solidarity</h3><br/>
+		<img src="../images/games/screenshot_solidarity_01.jpg" alt="Solidarity" width="600">
+	</a>
+	<br/><p class="bigger">
+	Made for Global Game Jam 2014
+	</p>
+</center>

@@ -5,6 +5,7 @@
 * After cloning, make sure to `docpad install` each of the plugins in the dependencies entry in package.json
 * `docpad run`
 * Navigate to `localhost:9778` in browser (9778 is the default port for docpad).
+* When ready to deploy: `docpad deploy-ghpages --env static`
 
 
 # [Bootstrap](http://getbootstrap.com) skeleton for [DocPad](https://github.com/bevry/docpad)

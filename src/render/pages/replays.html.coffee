@@ -9,6 +9,8 @@ center ->
 		"Time Trial Videos"
 	h3 ->
 		a href: @site.url + "video/cataclysm-1_1-633.avi", -> "Cataclysm-1 (1.633s)"
+	h3 ->
+		a href: @site.url + "video/cataclysm-2_2-111.mp4", -> "Cataclysm-2 (2.111s)"
 	h2 ->
 		"Versus Replays"
 

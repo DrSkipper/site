@@ -8,7 +8,13 @@ center ->
 	h2 ->
 		"Time Trial Videos"
 	h3 ->
-		a href: @site.url + "video/cataclysm-1_1-633.avi", -> "Cataclysm-1 (1.633s)"
+		a href: @site.url + "video/backfire-2_1-661.mp4", -> "Backfire-2 (1.661s)"
+	h3 ->
+		a href: @site.url + "video/dreadwood-1_1-625.mp4", -> "Dreadwood-1 (1.625s)"
+	h3 ->
+		a href: @site.url + "video/darkfang-1_1-954", -> "Darkfang-1 (1.954s)"
+	h3 ->
+		a href: @site.url + "video/cataclysm-1_1-633.mp4", -> "Cataclysm-1 (1.633s)"
 	h3 ->
 		a href: @site.url + "video/cataclysm-2_2-111.mp4", -> "Cataclysm-2 (2.111s)"
 	h2 ->
@@ -16,19 +22,19 @@ center ->
 
 img src: @site.url + "images/replays/replay-15-05-01-11.gif"
 img src: @site.url + "images/replays/replay-15-05-01-10.gif"
-img src: @site.url + "images/replays/replay-15-05-01-09.gif"
+#img src: @site.url + "images/replays/replay-15-05-01-09.gif"
 img src: @site.url + "images/replays/replay-15-05-01-08.gif"
-img src: @site.url + "images/replays/replay-15-05-01-07.gif"
+#img src: @site.url + "images/replays/replay-15-05-01-07.gif"
 img src: @site.url + "images/replays/replay-15-05-01-06.gif"
 img src: @site.url + "images/replays/replay-15-05-01-05.gif"
 # img src: @site.url + "images/replays/replay-15-05-01-04.gif"
 img src: @site.url + "images/replays/replay-15-05-01-03.gif"
-img src: @site.url + "images/replays/replay-15-05-01-02.gif"
+#img src: @site.url + "images/replays/replay-15-05-01-02.gif"
 img src: @site.url + "images/replays/replay-15-05-01-01.gif"
 img src: @site.url + "images/replays/replay-15-04-27-06.gif"
-img src: @site.url + "images/replays/replay-15-04-27-05.gif"
+#img src: @site.url + "images/replays/replay-15-04-27-05.gif"
 img src: @site.url + "images/replays/replay-15-04-27-04.gif"
-img src: @site.url + "images/replays/replay-15-04-27-03.gif"
+#img src: @site.url + "images/replays/replay-15-04-27-03.gif"
 img src: @site.url + "images/replays/replay-15-04-27-02.gif"
 img src: @site.url + "images/replays/replay-15-04-27-01.gif"
 # img src: @site.url + "images/replays/replay-14-08-14-01.gif"

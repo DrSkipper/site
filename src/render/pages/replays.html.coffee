@@ -10,11 +10,13 @@ center ->
 	h3 ->
 		a href: @site.url + "video/backfire-2_1-661.mp4", -> "Backfire-2 (1.661s)"
 	h3 ->
-		a href: @site.url + "video/thornwood-2_2.914.mp4", -> "Thornwood-2 (2.914s)"
+		a href: @site.url + "video/thornwood-2_2-914.mp4", -> "Thornwood-2 (2.914s)"
 	h3 ->
-		a href: @site.url + "video/thornwood-3_3.729.mp4", -> "Thornwood-3 (3.729s)"
+		a href: @site.url + "video/thornwood-3_3-729.mp4", -> "Thornwood-3 (3.729s)"
 	h3 ->
 		a href: @site.url + "video/amaranth-1_1-814.mp4", -> "The Amaranth-1 (1.814s)"
+	h3 ->
+		a href: @site.url + "video/amaranth-2_2-497.mp4", -> "The Amaranth-2 (2.497s)"
 	h3 ->
 		a href: @site.url + "video/dreadwood-1_1-625.mp4", -> "Dreadwood-1 (1.625s)"
 	h3 ->

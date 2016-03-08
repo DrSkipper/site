@@ -20,6 +20,8 @@ center ->
 	h3 ->
 		a href: @site.url + "video/dreadwood-1_1-625.mp4", -> "Dreadwood-1 (1.625s)"
 	h3 ->
+		a href: @site.url + "video/dreadwood-2_1-908.mp4", -> "Dreadwood-2 (1.908s)"
+	h3 ->
 		a href: @site.url + "video/darkfang-1_1-954.mp4", -> "Darkfang-1 (1.954s)"
 	h3 ->
 		a href: @site.url + "video/darkfang-2_2-484.mp4", -> "Darkfang-2 (2.484s)"

@@ -1,22 +1,32 @@
 ---
 title: Games
 layout: page
-pageOrder: 2
+pageOrder: 1
 ---
 
 <center>
+	<a href="https://drskipper.itch.io/watchlist">
+		<h3>Watchlist</h3><br/>
+		<img src="<%=@site.url + '/images/games/screenshot_watchlist_01.png'%>" alt="Watchlist">
+	</a>
+	<br/>
+	<!--<p class="bigger">
+	You must prove to have realigned yourself with our prioritization above all of self and nation
+	</p><br/>-->
 	<a href="http://microventuresgame.com/">
 		<h3>MicroVentures</h3><br/>
 		<img src="<%=@site.url + '/images/games/screenshot_microventures_01.jpg'%>" alt="MicroVentures">
 	</a>
-	<br/><p class="bigger">
+	<br/>
+	<!--<p class="bigger">
 	Adventure game for mobile devices driven by generated short stories and levels
-	</p><br/>
+	</p><br/>-->
 	<a href="http://gamejolt.com/games/strategy-sim/solidarity/21732/">
 		<h3>Solidarity</h3><br/>
 		<img src="<%=@site.url + '/images/games/screenshot_solidarity_01.jpg'%>" alt="Solidarity" width="600">
 	</a>
-	<br/><p class="bigger">
+	<br/>
+	<!--<p class="bigger">
 	Made for Global Game Jam 2014
-	</p>
+	</p>-->
 </center>

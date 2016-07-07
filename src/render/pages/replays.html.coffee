@@ -1,7 +1,7 @@
 ---
 title: TowerFall Replays
 layout: page
-pageOrder: 3
+pageOrder: 2
 ---
 
 center ->

@@ -6,10 +6,9 @@ pageOrder: 1
 
 <center>
 	<iframe frameborder="0" src="https://itch.io/embed/64762?linkback=true&amp;border_width=2&amp;bg_color=0F0F0F&amp;fg_color=DD0002&amp;border_color=000000" width="554" height="169"></iframe><br/>
+	<iframe frameborder="0" src="https://itch.io/embed/74774?border_width=2&amp;bg_color=421313&amp;fg_color=ededed&amp;border_color=180606" width="554" height="169"></iframe><br/>
+	<a href="http://gamejolt.com/games/don-t-miss-it/123128">
+		<img src="<%=@site.url + '/images/games/screenshot_dontmissit_02.png'%>" alt="Don't Miss It"></a><br/>
 	<a href="http://microventuresgame.com/">
-		<h3>MicroVentures</h3><br/>
 		<img src="<%=@site.url + '/images/games/screenshot_microventures_01.jpg'%>" alt="MicroVentures"></a><br/>
-	<a href="http://gamejolt.com/games/strategy-sim/solidarity/21732/">
-		<h3>Solidarity</h3><br/>
-		<img src="<%=@site.url + '/images/games/screenshot_solidarity_01.jpg'%>" alt="Solidarity" width="600"></a><br/>
 </center>
